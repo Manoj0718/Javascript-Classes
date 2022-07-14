@@ -1,3 +1,6 @@
+# Javascript Classes 
+
+
 Book
 Properties: author (string), title (string), pages (number), isCheckedOut (boolean, initially false), and ratings (array, initially empty).
 Getters: all properties have a getter
